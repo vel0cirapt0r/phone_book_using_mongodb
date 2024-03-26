@@ -10,12 +10,12 @@ This is a simple command-line phone book application built with Python and Mongo
 1. Clone the repository to your local machine:
 
    
-    git clone <repository_url>
+    git clone "https://github.com/vel0cirapt0r/phone_book_using_mongodb.git"
     
 2. Navigate to the project directory:
 
    
-    cd PhoneBook
+    cd phone_book_using_mongodb
     
 3. Install the required Python packages using pip:
 
@@ -46,6 +46,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Make sure to replace <repository_url> with the actual URL of your Git repository. You can also provide more specific instructions if needed, such as configuring MongoDB or troubleshooting common issues.
